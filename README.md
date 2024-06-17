@@ -2,7 +2,7 @@
 
 #### Contexto
 
-Este projeto é desenvolvido como parte do curso de Ciência da Computação, especificamente na disciplina de Programação de Soluções Computacionais. O objetivo principal é aplicar os conhecimentos adquiridos durante o curso, abrangendo desde conceitos básicos de programação até o uso avançado de orientação a objetos, manipulação de arquivos e tratamento de exceções. Além disso, o trabalho explora o potencial das Inteligências Artificiais Generativas para auxiliar na definição de requisitos funcionais do sistema.
+Este projeto é desenvolvido como parte do curso de Ciência da Computação, especificamente na disciplina de Programação de Soluções Computacionais. O objetivo principal é aplicar os conhecimentos adquiridos durante a UC, abrangendo desde conceitos básicos de programação até o uso avançado de orientação a objetos, manipulação de arquivos e tratamento de exceções. Além disso, o trabalho explora o potencial das Inteligências Artificiais Generativas.
 
 #### Conteúdo e Tecnologias Utilizadas
 
@@ -15,7 +15,7 @@ O projeto cobre os seguintes tópicos e tecnologias:
 - Manipulação de arquivos para persistência de dados
 - Utilização de IA Generativa para auxiliar na definição de requisitos funcionais
 
-Os alunos têm a liberdade de escolher entre as linguagens C# ou Java para implementar o sistema.
+A linguagem escolhida para esse projeto foi Java.
 
 #### Estrutura do Trabalho
 
@@ -25,15 +25,15 @@ Os alunos têm a liberdade de escolher entre as linguagens C# ou Java para imple
 
 2. **Requisitos Funcionais**:
    - Utilização de IA Generativa para identificar e listar as funcionalidades necessárias do sistema.
-   - Crítica da eficácia da IA na identificação dos requisitos, embasada na bibliografia do curso.
+   - Crítica da eficácia da IA na identificação dos requisitos.
 
 3. **Diagrama de Classes**:
    - Descrição textual das classes, propriedades e métodos que compõem o sistema.
-   - Explanação sobre como essas classes se relacionam para resolver o problema proposto.
+   - Contar sobre como essas classes se relacionam para resolver o problema proposto.
 
 4. **Estratégia de Programação com IA**:
    - Exploração de diferentes abordagens de programação com o auxílio da IA, como revisão de código e prática de exercícios.
 
 5. **Codificação do Programa**:
-   - Implementação do sistema utilizando a linguagem escolhida (C# ou Java), seguindo os requisitos funcionais identificados.
+   - Implementação do sistema utilizando a linguagem escolhida Java, seguindo os requisitos funcionais identificados.
    - Integração das funcionalidades de recebimento, cálculo e armazenamento de doações conforme especificado.
